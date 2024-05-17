@@ -1,2 +1,5 @@
-var abc = "Hi!"
-1 + 3
+class Brunch < Breakfast {
+  drink() {
+    print "How about a Bloody Mary?";
+  }
+}
